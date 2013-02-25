@@ -486,9 +486,4 @@ public class TinyVelocityEngine {
 	}
 
 	
-	static class Model{
-		public int idea=8;
-		public String word="bla";
-	}
-
 }
